@@ -3,7 +3,7 @@
 **Copyright © 2025 Maxime Stephan**  
 Piment Laboratory, La Reunion University, Imageen SCOP ARL
 
-This workbook is licensed under the **MIT License**.
+This workbook and VBA code is licensed under the **MIT License**.
 ---
 
 ### MIT License
