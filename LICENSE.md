@@ -1,8 +1,14 @@
+# LICENSE
+
 Creative Commons Attribution – ShareAlike 4.0 International (CC BY-SA 4.0) license.
 
-Maxime Stephan, Piment Laboratory, La Reunion University, Imageen SCOP ARL, 2025
+Copyright © 2025  Maxime Stephan, Piment Laboratory, La Reunion University, Imageen SCOP ARL, 
 
 This work is licensed under a Creative Commons Attribution – ShareAlike 4.0 International (CC BY-SA 4.0) license.
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
 
 You are free to share (copy, redistribute) and adapt this material for any purpose, even commercially, as long as you:
 
