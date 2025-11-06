@@ -1,25 +1,23 @@
-# LICENSE
+# License
 
-Creative Commons Attribution – ShareAlike 4.0 International (CC BY-SA 4.0) license.
+**Copyright © 2025 Maxime Stephan**  
+Piment Laboratory, La Reunion University, Imageen SCOP ARL
 
-Copyright © 2025  Maxime Stephan, Piment Laboratory, La Reunion University, Imageen SCOP ARL, 
+This workbook is licensed under the **MIT License**.
+---
 
-This work is licensed under a Creative Commons Attribution – ShareAlike 4.0 International (CC BY-SA 4.0) license.
+### MIT License
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-You are free to share (copy, redistribute) and adapt this material for any purpose, even commercially, as long as you:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-- give appropriate credit to the author
-- distribute your contributions under the same license as the original
+## Disclaimer
 
-No Responsibility Disclaimer ;
+The author accepts no responsibility for any direct or indirect consequences arising from the use of this work, including technical, scientific, or industrial decisions. Results, data, and calculations are provided for informational purposes only and may include uncertainties.
 
-The author accepts no responsibility for any direct or indirect consequences arising from the use of this work, including technical, scientific, or industrial decisions.
-The results, data, and calculations are provided for informational purposes only and may include uncertainties related to underlying assumptions or applied methods.
-Any use of this material is at the user’s own risk and responsibility.
-
-For more information, see: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+**Use at your own risk and responsibility.**
 
