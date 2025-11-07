@@ -4,18 +4,22 @@
 
 To get started, clone the repository or download one of both Excel files:
 
-- **glaser_predictor_open.xlsm** $\to$ an open version allowing free modification of all cells
-- **glaser_predictor_locked.xlsm** $\to$ a locked version to perform calculations without issues
+- **IsoRhum-Condensation-Predictor_open.xlsm** $\to$ an open version allowing free modification of all cells
+- **IsoRhum-Condensation-Predictor_locked.xlsm** $\to$ a locked version to perform calculations without issues
 
 ```bash
 git clone https://github.com/maximestph/Glaser-Predictor.git
 cd mon-projet
 ```
 
+
 ## Introduction
 This Excel file was developed as part of the ISORHUM project within the OMBREE program.  It was created through a collaboration between the PIMENT laboratory (University of La Réunion) and the IMAGREEN consulting firm. It is based on work carried out by all the partners involved in the ISORHUM project.
 
 This workbook offers an a priori prediction of condensation risks over one year within an insulating wall, using the Glaser model.
+
+![video](./images/gradients.mp4)
+
 
 The Glaser model is limited to describing the steady-state regime, unlike coupled heat, air, and moisture (HAM) models, which account for transient phenomena. This limitation should be considered, especially when two layers with high resistance to water vapor diffusion are stacked. In such cases, wall desorption is delayed, preventing the rapid attainment of the steady-state regime.
 
