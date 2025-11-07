@@ -12,6 +12,12 @@ git clone https://github.com/maximestph/Glaser-Predictor.git
 cd mon-projet
 ```
 
+Please ensure the worksheet protection is unlocked to allow proper use of VBA macros (right-click $\to$ Properties) :
+
+![Code couleur des cellules](./images/unlock_macro.png)
+
+
+
 
 ## Introduction
 This Excel file was developed as part of the ISORHUM project within the OMBREE program.  It was created through a collaboration between the PIMENT laboratory (University of La Réunion) and the IMAGREEN consulting firm. It is based on work carried out by all the partners involved in the ISORHUM project.
